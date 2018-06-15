@@ -1,2 +1,3 @@
-matplotlib
-fenics
+numpy
+scipy
+plotly
